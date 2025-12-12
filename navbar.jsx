@@ -16,7 +16,7 @@ export default function Navbar() {
           <Link to="/project">Project</Link>
           <Link to="/contact">Contact</Link>
         </div>
-        <button className="button" onClick={() => window.open("https://drive.google.com/file/d/1Jzykou2mecNBumsan74p_7EsJXCcoDqL/view?usp=sharing", "_blank")} >
+        <button className="button" onClick={() => window.open("https://drive.google.com/file/d/17Eo9AAwCwTya1uK-XhTF3AhfaYLR_qka/view?usp=sharing", "_blank")} >
                 Resume</button>
       </div>
       </div>
