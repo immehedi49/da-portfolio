@@ -6,7 +6,7 @@ export default function Home() {
             <div className="intro-title">Turning Data Into Meaningful Insights</div>
             <div className="intro">I am a <span className="span">Data Analyst</span> focused on transforming raw data into meaningful insights that drive informed decisions. I specialize in analyzing trends, building clear visualizations, and turning complex information into actionable strategies that help businesses grow smarter and faster.</div>
             <div className="button-container">
-                <button className="resume-button" onClick={() => window.open("https://drive.google.com/file/d/1815RkUTSMDA-vsJaiWCTlAZRngpYDecO/view?usp=sharing", "_blank")} >
+                <button className="resume-button" onClick={() => window.open("https://drive.google.com/file/d/1Jzykou2mecNBumsan74p_7EsJXCcoDqL/view?usp=sharing", "_blank")} >
                 Check my resume</button>
             </div>
         </div>
