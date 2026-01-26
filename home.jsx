@@ -16,7 +16,7 @@ export default function Home() {
           className="resume-button"
           onClick={() =>
             window.open(
-              "https://drive.google.com/file/d/1tCTMJ1lcAYBImwTx93W7nXD22FwuVX7z/view?usp=sharing",
+              "https://drive.google.com/file/d/1Sg1aoKCFYdPIJAseNIFzPO_6hCkh-jDo/view?usp=sharing",
               "_blank",
             )
           }
